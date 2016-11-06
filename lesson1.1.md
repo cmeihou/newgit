@@ -1,4 +1,4 @@
-# NTU GIT CLASS EXERCISE 1
+# NTU GIT CLASS EXERCISE 1_hello
 
 cmhou7773
 ----
